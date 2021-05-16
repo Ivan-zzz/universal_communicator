@@ -13,3 +13,12 @@ Hi there. I want to create communicator device with following functionality:
 - get GPS coordinates and heading  and transfer to 2nd devuce or to a group
 - estimate range between 2 points (to the other device or inputed coordinates, or base choosen coordinates). 
 
+
+Basement - ESP32 modules (like devkit)
+input - from nextion display, or any other touchscreen display. Optionally - no input and using smartphone or PC for input/indication (for add-on type of device).
+long range short messaging - Lora
+Mid-range voice talking - NRF24 (not necessary if integrated wifi with amplifier and external antenna reach the same range).
+low-range fast communiction - integrated wifi/bluetooth (but not necessary if NRF is working fine). 
+
+If sbdy interested and wants to help in development of such device - feel free to contact me. 
+Thx.
