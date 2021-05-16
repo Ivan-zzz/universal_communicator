@@ -1,5 +1,6 @@
 # universal_communicator
-Communicator (wifi/bluetooth+radiomodule+communication with smartphone and PC)
+Communicator (wifi/bluetooth+radiomodule+communication with smartphone and PC).
+
 Hi there. I want to create communicator device with following functionality:
 1) Communication between 2 similar devices (sms / voice / data-files transferring)
 - by integrated radiomodules (wifi esp32-now)
